@@ -7,18 +7,24 @@ tree hollows
 ---
 
 Owls dwell in many a hollow,
-A chamber in an ancient life.
+Chamber in an ancient life.
 They may sleep, look, and swallow
-The essence of another's strife.
+Essence of another's strife.
 
 .. sleep stanza
-Eyes still and quiet.
-Life runs amock free and clear.
-This owl rests above many dieting
-Not knowing the danger they have not fear.
+Eyes still and quiet above
+Life running amok in the forest clear.
+This owl rests over many of
+Whom scurry around with proper fear.
 
 .. wakeup stanza
+Bright star loft above horizon.
+Eye lids fluttering from a dream.
+Stirring, peek around from eyes wizen.
+Beak yawns agape with silent scream.
 
-.. look stanza
-
-.. swallow stanza
+.. catch
+Quick spin towards the heard sound.
+With prey in sight
+Take off gliding to the ground.
+Warm dinner tonight.
