@@ -25,6 +25,6 @@ Beak yawns agape with silent scream.
 
 .. catch
 Quick spin towards the heard sound.
-With prey in sight
-Take off gliding to the ground.
-Warm dinner tonight.
+Prey in sight
+Take off, gliding to the ground.
+Dinner tonight.
